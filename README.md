@@ -15,4 +15,4 @@ How to train your custom data?
 + second, change Path to (val,train)dataset at line 12, 15, 16 in file train_eval.py
 + Third, change Path to test_dataset at line 9 in file predict.py
 
-HOW YOU ENJOY IT!
+HOPE YOU ENJOY IT!
